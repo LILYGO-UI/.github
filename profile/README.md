@@ -4,9 +4,9 @@ LILYGO UI is an open software platform for LILYGO devices, providing a consisten
 
 ## Supported devices
 
-| T-DisplayCM0         | T-DisplayK230(暂未支持) |
+| T-DisplayCM0         | T-DisplayK230 |
 | :------------------: | :--------------------: |
-| ![](../assets/image/T-DisplayCM0.JPG)                     | <img src="https://wiki.lilygo.cc/products/t-display-series/t-display-k230/index/image/t-display-k230-1.jpg" alt="T-DisplayK230" width="100%"> |
+| https://github.com/LILYGO-UI/pi-gen/releases | https://github.com/LILYGO-UI/canaan-gen/releases |
 
 
 ## Developer Tools & References
